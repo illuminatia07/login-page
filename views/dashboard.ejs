@@ -1,0 +1,21 @@
+<%- include('header') -%>
+
+<div class="container">
+    <div class="row justify-content-center mt-5">
+       
+        <div class="col-md-6">
+            <div class="card bg-secondary">
+                <div class="card-body">
+                    <h5 class="card-title text-center">Welcome to the Dashboard</h5>
+                    <p class="card-text text-center">Hello, <%= user %>!</p>
+                    <div class="text-center">
+                        <a href="/route/logout" class="btn btn-danger" id="signOutBtn">Sign out</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<%- include('footer') -%>
+
