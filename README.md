@@ -36,9 +36,5 @@ Password: [Insert corresponding predefined password]
 
 Repeat this pattern for additional predefined username and password combinations as needed.
 
-Contributing
-If you encounter any bugs or have suggestions for improvement, please feel free to submit an issue or pull request.
 
-License
-This project is licensed under the MIT License.
 
